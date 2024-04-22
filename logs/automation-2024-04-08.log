@@ -1,0 +1,50 @@
+22:15:26.216 [TestNG-tests-1] INFO  testCase.TC_001_Top5Doctors - ****Inspecting the health and wellness form under for corporate section****
+22:15:26.241 [TestNG-tests-2] INFO  testCase.TC_001_Top5Doctors - ****Entering the organization name****
+22:15:26.464 [TestNG-tests-2] INFO  testCase.TC_001_Top5Doctors - ****Entering the number****
+22:15:26.878 [TestNG-tests-2] INFO  testCase.TC_001_Top5Doctors - ****Entering the official E-Mail****
+22:15:27.208 [TestNG-tests-2] INFO  testCase.TC_001_Top5Doctors - ****Selecting the organization size****
+22:15:27.660 [TestNG-tests-2] INFO  testCase.TC_001_Top5Doctors - ****Selecting the Interested in section****
+22:15:28.051 [TestNG-tests-2] INFO  testCase.TC_001_Top5Doctors - ****Submit button****
+22:15:28.153 [TestNG-tests-1] INFO  testCase.TC_001_Top5Doctors - ****Entering the name****
+22:15:28.271 [TestNG-tests-2] INFO  testCase.TC_001_Top5Doctors - ****Validating the 'THANK YOU' message****
+22:15:28.637 [TestNG-tests-1] INFO  testCase.TC_001_Top5Doctors - ****Entering the organization name****
+22:15:29.319 [TestNG-tests-1] INFO  testCase.TC_001_Top5Doctors - ****Entering the number****
+22:15:29.594 [TestNG-tests-1] INFO  testCase.TC_001_Top5Doctors - ****Entering the official E-Mail****
+22:15:29.856 [TestNG-tests-1] INFO  testCase.TC_001_Top5Doctors - ****Selecting the organization size****
+22:15:30.030 [TestNG-tests-1] INFO  testCase.TC_001_Top5Doctors - ****Selecting the Interested in section****
+22:15:30.213 [TestNG-tests-1] INFO  testCase.TC_001_Top5Doctors - ****Submit button****
+22:15:30.332 [TestNG-tests-1] INFO  testCase.TC_001_Top5Doctors - ****Validating the 'THANK YOU' message****
+22:18:49.185 [TestNG-tests-2] INFO  testCase.TC_001_Top5Doctors - ****Entering the city****
+22:18:50.524 [TestNG-tests-2] INFO  testCase.TC_001_Top5Doctors - ****Selecting from the city dropdown****
+22:18:51.232 [TestNG-tests-1] INFO  testCase.TC_001_Top5Doctors - ****Entering the city****
+22:18:52.055 [TestNG-tests-1] INFO  testCase.TC_001_Top5Doctors - ****Selecting from the city dropdown****
+22:18:53.643 [TestNG-tests-2] INFO  testCase.TC_001_Top5Doctors - ****Entering the speciality****
+22:18:55.231 [TestNG-tests-1] INFO  testCase.TC_001_Top5Doctors - ****Entering the speciality****
+22:19:02.735 [TestNG-tests-2] INFO  testCase.TC_001_Top5Doctors - ****Selecting from the speciality dropdown****
+22:19:04.403 [TestNG-tests-1] INFO  testCase.TC_001_Top5Doctors - ****Selecting from the speciality dropdown****
+22:19:11.686 [TestNG-tests-2] INFO  testCase.TC_001_Top5Doctors - ****Test-filters started****
+22:19:11.691 [TestNG-tests-2] INFO  testCase.TC_001_Top5Doctors - ****Selecting review filter****
+22:19:11.937 [TestNG-tests-1] INFO  testCase.TC_001_Top5Doctors - ****Test-filters started****
+22:19:11.937 [TestNG-tests-1] INFO  testCase.TC_001_Top5Doctors - ****Selecting review filter****
+22:19:15.019 [TestNG-tests-2] INFO  testCase.TC_001_Top5Doctors - ****Selecting experience filter****
+22:19:15.313 [TestNG-tests-1] INFO  testCase.TC_001_Top5Doctors - ****Selecting experience filter****
+22:19:18.880 [TestNG-tests-1] INFO  testCase.TC_001_Top5Doctors - ****Selecting price filter****
+22:19:19.268 [TestNG-tests-2] INFO  testCase.TC_001_Top5Doctors - ****Selecting price filter****
+22:19:22.393 [TestNG-tests-1] INFO  testCase.TC_001_Top5Doctors - ****Selecting availability filter****
+22:19:23.016 [TestNG-tests-2] INFO  testCase.TC_001_Top5Doctors - ****Selecting availability filter****
+22:19:25.705 [TestNG-tests-1] INFO  testCase.TC_001_Top5Doctors - ****Selecting sort by filter****
+22:19:26.253 [TestNG-tests-2] INFO  testCase.TC_001_Top5Doctors - ****Selecting sort by filter****
+22:19:33.352 [TestNG-tests-1] INFO  testCase.TC_001_Top5Doctors - ****Fetching the details of the doctors****
+22:19:33.684 [TestNG-tests-1] INFO  testCase.TC_001_Top5Doctors - ****Inspecting the surgery page****
+22:19:35.553 [TestNG-tests-2] INFO  testCase.TC_001_Top5Doctors - ****Fetching the details of the doctors****
+22:19:35.650 [TestNG-tests-2] INFO  testCase.TC_001_Top5Doctors - Doctor: 1
+22:19:39.377 [TestNG-tests-2] INFO  testCase.TC_001_Top5Doctors - Doctor: 2
+22:19:39.712 [TestNG-tests-1] INFO  testCase.TC_001_Top5Doctors - ****Inspecting the health and wellness form under for corporate section****
+22:19:43.319 [TestNG-tests-2] INFO  testCase.TC_001_Top5Doctors - Doctor: 3
+22:19:47.593 [TestNG-tests-2] INFO  testCase.TC_001_Top5Doctors - Doctor: 4
+22:19:48.089 [TestNG-tests-1] INFO  testCase.TC_001_Top5Doctors - ****Entering the name****
+22:19:48.744 [TestNG-tests-1] INFO  testCase.TC_001_Top5Doctors - ****Entering the organization name****
+22:19:49.031 [TestNG-tests-1] INFO  testCase.TC_001_Top5Doctors - ****Entering the number****
+22:19:49.780 [TestNG-tests-1] INFO  testCase.TC_001_Top5Doctors - ****Entering the official E-Mail****
+22:19:50.081 [TestNG-tests-1] INFO  testCase.TC_001_Top5Doctors - ****Selecting the organization size****
+22:19:50.464 [TestNG-tests-1] INFO  testCase.TC_001_Top5Doctors - ****Selecting the Interested in section****

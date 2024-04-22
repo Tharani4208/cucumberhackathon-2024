@@ -1,0 +1,51 @@
+20:30:04.351 [TestNG-tests-2] INFO  testCase.TC_001_Top5Doctors - ****Test-searchingCity started****
+20:30:04.372 [TestNG-tests-2] INFO  testCase.TC_001_Top5Doctors - ****Selecting review filter****
+20:30:07.537 [TestNG-tests-1] INFO  testCase.TC_001_Top5Doctors - ****Selecting price filter****
+20:30:07.630 [TestNG-tests-2] INFO  testCase.TC_001_Top5Doctors - ****Selecting experience filter****
+20:30:10.946 [TestNG-tests-1] INFO  testCase.TC_001_Top5Doctors - ****Selecting availability filter****
+20:30:11.024 [TestNG-tests-2] INFO  testCase.TC_001_Top5Doctors - ****Selecting price filter****
+20:30:14.185 [TestNG-tests-1] INFO  testCase.TC_001_Top5Doctors - ****Selecting sort by filter****
+20:30:14.302 [TestNG-tests-2] INFO  testCase.TC_001_Top5Doctors - ****Selecting availability filter****
+20:30:17.557 [TestNG-tests-2] INFO  testCase.TC_001_Top5Doctors - ****Selecting sort by filter****
+20:37:55.884 [main] INFO  testCase.TC_001_Top5Doctors - ****Entering the city****
+20:37:59.348 [main] INFO  testCase.TC_001_Top5Doctors - ****Selecting from the city dropdown****
+20:38:02.445 [main] INFO  testCase.TC_001_Top5Doctors - ****Entering the speciality****
+20:38:11.568 [main] INFO  testCase.TC_001_Top5Doctors - ****Selecting from the speciality dropdown****
+20:38:16.689 [main] INFO  testCase.TC_001_Top5Doctors - ****Test-searchingCity started****
+20:38:16.691 [main] INFO  testCase.TC_001_Top5Doctors - ****Selecting review filter****
+20:38:19.975 [main] INFO  testCase.TC_001_Top5Doctors - ****Selecting experience filter****
+20:38:23.193 [main] INFO  testCase.TC_001_Top5Doctors - ****Selecting price filter****
+20:38:26.451 [main] INFO  testCase.TC_001_Top5Doctors - ****Selecting availability filter****
+20:38:29.681 [main] INFO  testCase.TC_001_Top5Doctors - ****Selecting sort by filter****
+20:39:37.004 [TestNG-tests-2] INFO  testCase.TC_001_Top5Doctors - ****Entering the city****
+20:39:37.004 [TestNG-tests-1] INFO  testCase.TC_001_Top5Doctors - ****Entering the city****
+20:39:40.837 [TestNG-tests-2] INFO  testCase.TC_001_Top5Doctors - ****Selecting from the city dropdown****
+20:39:41.001 [TestNG-tests-1] INFO  testCase.TC_001_Top5Doctors - ****Selecting from the city dropdown****
+20:39:50.850 [TestNG-tests-2] INFO  testCase.TC_001_Top5Doctors - ****Entering the speciality****
+20:39:51.314 [TestNG-tests-1] INFO  testCase.TC_001_Top5Doctors - ****Test-searchingCity started****
+20:39:51.320 [TestNG-tests-1] INFO  testCase.TC_001_Top5Doctors - ****Selecting review filter****
+20:57:32.162 [TestNG-tests-2] INFO  testCase.TC_001_Top5Doctors - ****Entering the city****
+20:57:34.903 [TestNG-tests-1] INFO  testCase.TC_001_Top5Doctors - ****Entering the city****
+20:57:36.126 [TestNG-tests-2] INFO  testCase.TC_001_Top5Doctors - ****Selecting from the city dropdown****
+20:57:38.687 [TestNG-tests-1] INFO  testCase.TC_001_Top5Doctors - ****Selecting from the city dropdown****
+20:57:39.330 [TestNG-tests-2] INFO  testCase.TC_001_Top5Doctors - ****Entering the speciality****
+20:57:41.790 [TestNG-tests-1] INFO  testCase.TC_001_Top5Doctors - ****Entering the speciality****
+20:57:48.439 [TestNG-tests-2] INFO  testCase.TC_001_Top5Doctors - ****Selecting from the speciality dropdown****
+20:57:50.884 [TestNG-tests-1] INFO  testCase.TC_001_Top5Doctors - ****Selecting from the speciality dropdown****
+20:58:55.904 [TestNG-tests-2] INFO  testCase.TC_001_Top5Doctors - ****Entering the city****
+20:58:58.038 [TestNG-tests-1] INFO  testCase.TC_001_Top5Doctors - ****Entering the city****
+20:58:59.534 [TestNG-tests-2] INFO  testCase.TC_001_Top5Doctors - ****Selecting from the city dropdown****
+20:59:02.175 [TestNG-tests-1] INFO  testCase.TC_001_Top5Doctors - ****Selecting from the city dropdown****
+20:59:02.873 [TestNG-tests-2] INFO  testCase.TC_001_Top5Doctors - ****Entering the speciality****
+20:59:05.273 [TestNG-tests-1] INFO  testCase.TC_001_Top5Doctors - ****Entering the speciality****
+20:59:12.000 [TestNG-tests-2] INFO  testCase.TC_001_Top5Doctors - ****Selecting from the speciality dropdown****
+20:59:14.384 [TestNG-tests-1] INFO  testCase.TC_001_Top5Doctors - ****Selecting from the speciality dropdown****
+21:00:06.353 [main] INFO  testCase.TC_001_Top5Doctors - ****Entering the city****
+21:00:10.220 [main] INFO  testCase.TC_001_Top5Doctors - ****Selecting from the city dropdown****
+21:00:13.332 [main] INFO  testCase.TC_001_Top5Doctors - ****Entering the speciality****
+21:00:22.472 [main] INFO  testCase.TC_001_Top5Doctors - ****Selecting from the speciality dropdown****
+21:50:26.193 [TestNG-tests-1] INFO  testCase.TC_001_Top5Doctors - ****Entering the city****
+21:50:26.193 [TestNG-tests-2] INFO  testCase.TC_001_Top5Doctors - ****Entering the city****
+21:50:29.979 [TestNG-tests-1] INFO  testCase.TC_001_Top5Doctors - ****Selecting from the city dropdown****
+21:50:30.169 [TestNG-tests-2] INFO  testCase.TC_001_Top5Doctors - ****Selecting from the city dropdown****
+21:51:13.839 [TestNG-tests-1] INFO  testCase.TC_001_Top5Doctors - ****Test-searchingCity started****

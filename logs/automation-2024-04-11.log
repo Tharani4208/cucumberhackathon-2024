@@ -1,0 +1,60 @@
+14:06:47.508 [main] INFO  factory.BaseClass - ****Entering the official E-Mail****
+14:06:47.694 [main] INFO  factory.BaseClass - ****Selecting the organization size****
+14:06:47.941 [main] INFO  factory.BaseClass - ****Selecting the Interested in section****
+14:07:30.826 [main] INFO  factory.BaseClass - ****Inspecting the health and wellness form under for corporate section****
+14:07:37.168 [main] INFO  factory.BaseClass - ****Entering the name****
+14:07:37.321 [main] INFO  factory.BaseClass - ****Entering the organization name****
+14:07:37.439 [main] INFO  factory.BaseClass - ****Entering the number****
+14:07:37.572 [main] INFO  factory.BaseClass - ****Entering the official E-Mail****
+14:07:37.713 [main] INFO  factory.BaseClass - ****Selecting the organization size****
+14:07:38.003 [main] INFO  factory.BaseClass - ****Selecting the Interested in section****
+14:08:23.384 [main] INFO  factory.BaseClass - ****Inspecting the health and wellness form under for corporate section****
+14:08:30.174 [main] INFO  factory.BaseClass - ****Entering the name****
+14:08:30.395 [main] INFO  factory.BaseClass - ****Entering the organization name****
+14:08:30.585 [main] INFO  factory.BaseClass - ****Entering the number****
+14:08:30.767 [main] INFO  factory.BaseClass - ****Entering the official E-Mail****
+14:08:31.014 [main] INFO  factory.BaseClass - ****Selecting the organization size****
+14:08:31.371 [main] INFO  factory.BaseClass - ****Selecting the Interested in section****
+14:08:32.281 [main] INFO  factory.BaseClass - ****Submit button****
+14:08:33.399 [main] INFO  factory.BaseClass - ****Validating the 'THANK YOU' message****
+14:18:11.087 [main] INFO  factory.BaseClass - Navigating to the home page
+14:18:11.120 [main] INFO  factory.BaseClass - ****Entering the city****
+14:18:15.174 [main] INFO  factory.BaseClass - ****Selecting from the city dropdown****
+14:18:18.339 [main] INFO  factory.BaseClass - ****Entering 	the speciality****
+14:18:27.500 [main] INFO  factory.BaseClass - ****Selecting from the speciality dropdown****
+14:18:32.598 [main] INFO  factory.BaseClass - user applying the filters
+14:18:32.600 [main] INFO  factory.BaseClass - ****Selecting review filter****
+14:18:35.843 [main] INFO  factory.BaseClass - ****Selecting experience filter****
+14:18:45.321 [main] INFO  factory.BaseClass - ****Selecting price filter****
+14:18:48.549 [main] INFO  factory.BaseClass - ****Selecting availability filter****
+14:18:52.373 [main] INFO  factory.BaseClass - ****Selecting sort by filter****
+14:19:00.703 [main] INFO  factory.BaseClass - Fetching the details of the doctors
+14:19:00.824 [main] INFO  factory.BaseClass - Doctor: 1
+14:19:05.025 [main] INFO  factory.BaseClass - Doctor: 2
+14:19:09.367 [main] INFO  factory.BaseClass - Doctor: 3
+14:19:12.930 [main] INFO  factory.BaseClass - Doctor: 4
+14:19:16.206 [main] INFO  factory.BaseClass - Doctor: 5
+14:20:02.518 [main] INFO  factory.BaseClass - ****Inspecting the surgery page****
+14:20:57.532 [main] INFO  factory.BaseClass - ****Inspecting the health and wellness form under for corporate section****
+14:21:04.478 [main] INFO  factory.BaseClass - ****Entering the name****
+14:21:04.619 [main] INFO  factory.BaseClass - ****Entering the organization name****
+14:21:04.715 [main] INFO  factory.BaseClass - ****Entering the number****
+14:21:04.797 [main] INFO  factory.BaseClass - ****Entering the official E-Mail****
+14:21:04.920 [main] INFO  factory.BaseClass - ****Selecting the organization size****
+14:21:05.330 [main] INFO  factory.BaseClass - ****Selecting the Interested in section****
+14:21:51.095 [main] INFO  factory.BaseClass - ****Inspecting the health and wellness form under for corporate section****
+14:21:57.029 [main] INFO  factory.BaseClass - ****Entering the name****
+14:21:57.121 [main] INFO  factory.BaseClass - ****Entering the organization name****
+14:21:57.201 [main] INFO  factory.BaseClass - ****Entering the number****
+14:21:57.286 [main] INFO  factory.BaseClass - ****Entering the official E-Mail****
+14:21:57.369 [main] INFO  factory.BaseClass - ****Selecting the organization size****
+14:21:57.567 [main] INFO  factory.BaseClass - ****Selecting the Interested in section****
+14:22:41.346 [main] INFO  factory.BaseClass - ****Inspecting the health and wellness form under for corporate section****
+14:22:47.695 [main] INFO  factory.BaseClass - ****Entering the name****
+14:22:47.843 [main] INFO  factory.BaseClass - ****Entering the organization name****
+14:22:47.948 [main] INFO  factory.BaseClass - ****Entering the number****
+14:22:48.047 [main] INFO  factory.BaseClass - ****Entering the official E-Mail****
+14:22:48.195 [main] INFO  factory.BaseClass - ****Selecting the organization size****
+14:22:48.382 [main] INFO  factory.BaseClass - ****Selecting the Interested in section****
+14:22:49.068 [main] INFO  factory.BaseClass - ****Submit button****
+14:22:50.226 [main] INFO  factory.BaseClass - ****Validating the 'THANK YOU' message****
